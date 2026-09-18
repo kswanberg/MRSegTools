@@ -1,5 +1,10 @@
 # masmat_project — Preprocessing for Mouse Brain Segmentation
 
+Contributors: 
+
+Maryam Hassan (https://github.com/maryamhassan1)
+Dean Dizon (https://github.com/deanatutsg-creator)
+
 This repository contains Python and MATLAB scripts for preprocessing and evaluating mouse brain MRIs before and after running MASMAT. It includes utilities to convert between DICOM, PNG, and NIfTI formats, create label masks, reorient/resample volumes, and evaluate MASMAT outputs using Dice similarity coefficients.
 
 ---
